@@ -1,0 +1,114 @@
+        @font-face {
+            font-family: DIN;
+            src: url(../fontes/DINNexLTW04Medium.ttf);
+        }
+        @font-face {
+            font-family: THUGS;
+            src: url(../fontes/Tungsten-Bold.ttf);
+        }
+        @font-face {
+            font-family: DIN2;
+            src: url(../fontes/DINNextW1G.otf);
+        }
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner video {
+    position: absolute;
+    top: 0;
+    object-fit: cover;
+    width: 100vw;
+    height: 100vh;
+}
+.background-agent{
+        position: absolute;
+        width: 100vw;
+        opacity: 20%;
+}
+.div-background{
+    overflow-x: hidden;
+}
+.list-icons {
+    z-index: 1;
+    position: relative;
+    display: flex;
+    overflow-x: auto;
+    gap: 2px;
+    margin: 10px 2px 0px 2px;
+}
+.button-icons{
+    width: 100vw;
+    background-color: rgba(61,96,119,0.7161239495798319);
+    opacity: 70%;
+    cursor: pointer;
+    border-color: transparent;
+    border-radius: 5px;
+}
+.button-icons:active{
+    border-style: solid;
+    border-color: #EAEEB2;
+    opacity: 100%;
+}
+.image-icons{
+    width: 15vw;
+}
+.card-agent{
+    visibility: hidden;
+}
+.image-agent{
+    position: relative;
+    width: 99%;
+    left: 1%;
+    transform: translateY(4%);
+}
+.habilits{
+    display: flex;
+    gap: 3px;
+}
+.button-habilites{
+    width: 12vw;
+    opacity: 50%;
+    background-color: rgba(66,42,144,1);
+    border-radius: 5px;
+    border: none;
+}
+.image-habilites{
+    width: 8vw;
+}
+.bio-agent{
+    margin-left: 10px;
+}
+body{
+    background-image: linear-gradient(90deg,  #975891, #8c5090, #804890, #724290, #623c90);
+}
+h2, h3{
+    font-family: DIN2;
+}
+h1{
+    font-family: THUGS;
+    font-size: 400%;
+    color: #EAEEB2;
+}
+p{
+    font-family: DIN2;
+    margin: 10px 0;
+}
+.bio {
+    color: #EAEEB2;
+}
+
+
+
