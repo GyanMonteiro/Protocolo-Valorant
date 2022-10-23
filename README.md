@@ -8,4 +8,8 @@ Primeiro projeto com Js
 | :rocket: URL | https://gyanmonteiro.github.io/Protocolo-Valorant/ |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://imgur.com/a/c6EcG2D#vitrinedev)
+![Thumb](https://user-images.githubusercontent.com/102252895/197417567-e849dda5-8ec0-45fe-afad-a419d9a85b16.jpg#vitrinedev)
+## Detalhes do projeto
+
+Como primeiro projeto com JS e responsividade, tive bastante dificuldade no comeco, principalmente na parte responsiva, refiz o projeto inteiro para a versao mobile
+que justamente aonde eu tava tendo problemas, apois foi finalizado o projeto.
