@@ -1,10 +1,13 @@
+<div align="center" >
+  <img src="https://github.com/GyanMonteiro/Protocolo-Valorant/blob/main/src/img/LogoValorant.png?raw=true"/>
+</div>
+
 # Protocolo Valorant
 
-Primeiro projeto com Js
 | :computer: Vitrine.Dev   |       |
 | :---------- | :---- |
 | :sparkles: Nome | Protocolo Valorant |
-| :label: Tecnologias | HTML CSS JS |
+| :label: Tecnologias | HTML, CSS, Javascript, Figma |
 | :rocket: URL | https://gyanmonteiro.github.io/Protocolo-Valorant/ |
 
 ## Preview
