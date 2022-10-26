@@ -1475,7 +1475,7 @@ harbor.addEventListener("click", function () {
   bioFuntion.textContent =
     "Controllers are experts in slincing up dangerous territory to set their team up for success.";
   function2.textContent = "CONTROLLER";
-  imageAgent.setAttribute("src", "src/img/Agents/Harbor/Harbor-teste.png");
+  imageAgent.setAttribute("src", "src/img/Agents/Harbor/Harbor.png");
   backgroundAgent.style.opacity = "20%";
   backgroundAgent.setAttribute("src", "src/img/Agents/Harbor/FundoHarbor.png");
   iconFuntion.setAttribute("src", "src/img/Icones/Funcoes/Controlador.png");
